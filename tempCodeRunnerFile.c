@@ -1,0 +1,1 @@
+printf("\n Not Fibonacci series %d",num);
